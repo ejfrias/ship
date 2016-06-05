@@ -4,21 +4,21 @@ Ship is a stylish HTML5/CSS3 template that was carefully crafted and enhanced wi
 ### About the template
 The responsive template is made with the freshest web technologies and it’s build with
 
-- (jQuery)[https://jquery.com/]
-- (Modernizr)[https://modernizr.com/]
-- (Font Awesome Icons)[http://fortawesome.github.io/Font-Awesome/]
-- (Flickity)[http://flickity.metafizzy.co/]
-- (Countdown)[http://github.com/rendro/countdown/]
-- (Backstretch)[http://srobbin.com/jquery-plugins/backstretch/]
+- [jQuery](https://jquery.com/)
+- [Modernizr](https://modernizr.com/)
+- [Font Awesome Icons](http://fortawesome.github.io/Font-Awesome/)
+- [Flickity](http://flickity.metafizzy.co/)
+- [Countdown](http://github.com/rendro/countdown/)
+- [Backstretch](http://srobbin.com/jquery-plugins/backstretch/)
 
 ### Inspirations
-Some components of this template was based from two of the best looking freebies at (Codrops)[http://tympanus.net/codrops]
+Some components of this template was based from two of the best looking freebies at [Codrops](http://tympanus.net/codrops)
 
-- (Halcyon Days)[http://tympanus.net/codrops/2014/07/14/freebie-halcyon-days-one-page-website-template/]
-- (Boxify)[http://tympanus.net/codrops/2015/01/27/freebie-boxify-one-page-website-template/]
+- [Halcyon Days](http://tympanus.net/codrops/2014/07/14/freebie-halcyon-days-one-page-website-template/)
+- [Boxify](http://tympanus.net/codrops/2015/01/27/freebie-boxify-one-page-website-template/)
 
 ### Live preview
-(http://ejfrias.com/playground/ship/)[http://ejfrias.com/playground/ship/]
+[http://ejfrias.com/playground/ship/](http://ejfrias.com/playground/ship/)
 
 ### Preview
 ![Ship - One page responsive template](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Ship - One page responsive template")
