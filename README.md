@@ -21,7 +21,7 @@ Some components of this template was based from two of the best looking freebies
 [http://ejfrias.com/playground/ship/](http://ejfrias.com/playground/ship/)
 
 ### Preview
-![Ship - One page responsive template](http://ejfrias.com/playground/ship/images/preview.png "Ship - One page responsive template")
+![Ship - One page responsive template](http://ejfrias.com/playground/ship/images/preview.png =720px "Ship - One page responsive template")
 
 ### License
 Feel free to use it anywhere as you see fit but please don’t republish or redistribute the template. A credit/link back would be greatly appreciated.
